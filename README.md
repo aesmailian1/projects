@@ -1,4 +1,3 @@
-
 Hello, and welcome to my GitHub!
-
-Here, you'll find a collection of assignments and projects I've completed as part of my MSA studies at Georgia Tech. Feel free to explore and check out my work!
+Here you'll find a collection of projects and assignments from my Master of Science in Analytics program at Georgia Tech. Each repository is labeled by topic for easy navigation.
+Feel free to explore—and thanks for stopping by!
